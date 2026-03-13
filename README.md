@@ -33,7 +33,6 @@ I am a software developer focused on building scalable, high-performance applica
 ### GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiissfelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiissfelipe&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
